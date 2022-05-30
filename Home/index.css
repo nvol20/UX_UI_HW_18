@@ -1,0 +1,262 @@
+header {
+  height: 35px;
+  border: 1px solid black;
+}
+footer {
+  height: 35px;
+  border: 1px solid black;
+  position: relative;
+  top: 550px;
+}
+.mefooter {
+height: 35px;
+}
+.logo {
+  float: left;
+  height: 35px;
+}
+ul {
+  font-size: 17px;
+  font-family: 'VT323', monospace;
+  float: left;
+}
+li {
+  position: absolute;
+  top: 0px;
+  left: 50px;
+  list-style-type: none;
+}
+.folderOne {
+  position: relative;
+  top: 40px;
+  left: 30px;
+  height: 90px;
+}
+.folderTwo {
+  position: relative;
+  top: 40px;
+  left: 60px;
+  height: 90px;
+}
+.folderThree {
+  position: relative;
+  top: 40px;
+  left: 90px;
+  height: 90px;
+}
+.folderFour {
+  position: relative;
+  top: 40px;
+  left: 120px;
+  height: 90px;
+}
+.screen {
+  height: 130px;
+  background-color: #C4C4C4;
+}
+.buttonOne {
+  height: 25px;
+  width: 100px;
+  font-family: 'VT323', monospace;
+  position: relative;
+  top: 20px;
+  left: 33px;
+  font-size: 15px;
+  background-color: #C4C4C4;
+}
+.buttonTwo {
+  height: 25px;
+  width: 100px;
+  font-family: 'VT323', monospace;
+  position: relative;
+  top: 20px;
+  left: 85px;
+  font-size: 15px;
+  background-color: #C4C4C4;
+}
+.buttonThree {
+  height: 25px;
+  width: 100px;
+  font-family: 'VT323', monospace;
+  position: relative;
+  top: 20px;
+  left: 137px;
+  font-size: 15px;
+  background-color: #C4C4C4;
+}
+.buttonFour {
+  height: 25px;
+  width: 100px;
+  font-family: 'VT323', monospace;
+  position: relative;
+  top: 20px;
+  left: 190px;
+  font-size: 15px;
+  background-color: #C4C4C4;
+  
+}
+.folderText {
+  height: 150px;
+  position: relative;
+  top: 0px;
+  background-color: #C4C4C4;
+}
+.hell {
+  height: 100px;
+  top: 60px;
+  background-color: #C4C4C4;
+  font-family: 'VT323', monospace;
+  position:relative;
+}
+.me {
+  height: 400px;
+  position: relative;
+  top: 175px;
+  right: 100px;
+  float: right;
+  animation-name: buddha;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+}
+.photo {
+  background-color: #C4C4C4;
+  height: 575px;
+}
+.name {
+  color: white;
+  text-align: center;
+  font-size: 50px;
+}
+.hello {
+  font-size: 30px;
+  position: relative;
+  text-align: center;
+}
+@keyframes typing {
+  from { width: 0 }
+  to { width: 40% }
+}
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: black; }
+}
+.cta {
+  width: 560px;
+  font-size: 24px;
+  text-align: center;
+  overflow: hidden;
+  border-right: .15em solid orange;
+  white-space: nowrap;
+  margin: 0 auto;
+  animation: 
+    typing 4s steps(30, end),
+    blink-caret .75s step-end infinite;
+}
+
+.designer {
+  font-size: 45px;
+  text-align: center;
+}
+@keyframes buddha {
+  0% {top: 175px}
+  1% {top: 174px}
+  2% {top: 173px}
+  3% {top: 172px}
+  4% {top: 171px}
+  5% {top: 170px}
+  6% {top: 169px}
+  7% {top: 168px}
+  8% {top: 167px}
+  9% {top: 166px}
+  10% {top: 165px}
+  11% {top: 164px}
+  12% {top: 163px}
+  13% {top: 162px}
+  14% {top: 161px}
+  15% {top: 160px}
+  16% {top: 159px}
+  17% {top: 158px}
+  18% {top: 157px}
+  19% {top: 156px}
+  20% {top: 155px}
+  21% {top: 154px}
+  22% {top: 153px}
+  23% {top: 152px}
+  24% {top: 151px}
+  25% {top: 150px}
+  26% {top: 149px}
+  27% {top: 148px}
+  28% {top: 147px}
+  29% {top: 146px}
+  30% {top: 145px}
+  31% {top: 144px}
+  32% {top: 143px}
+  33% {top: 142px}
+  34% {top: 141px}
+  35% {top: 140px}
+  36% {top: 139px}
+  37% {top: 138px}
+  38% {top: 137px}
+  39% {top: 136px}
+  40% {top: 135px}
+  41% {top: 134px}
+  42% {top: 133px}
+  43% {top: 132px}
+  44% {top: 131px}
+  45% {top: 130px}
+  46% {top: 129px}
+  47% {top: 128px}
+  48% {top: 127px}
+  49% {top: 126px}
+  50% {top: 125px}
+  51% {top: 126px}
+  52% {top: 127px}
+  53% {top: 128px}
+  54% {top: 129px}
+  55% {top: 130px}
+  56% {top: 131px}
+  57% {top: 132px}
+  58% {top: 133px}
+  59% {top: 134px}
+  60% {top: 135px}
+  61% {top: 136px}
+  62% {top: 137px}
+  63% {top: 138px}
+  64% {top: 139px}
+  65% {top: 140px}
+  66% {top: 141px}
+  67% {top: 142px}
+  68% {top: 143px}
+  69% {top: 144px}
+  70% {top: 145px}
+  71% {top: 146px}
+  72% {top: 147px}
+  73% {top: 148px}
+  74% {top: 149px}
+  75% {top: 150px}
+  76% {top: 151px}
+  77% {top: 152px}
+  78% {top: 153px}
+  79% {top: 154px}
+  80% {top: 155px}
+  81% {top: 156px}
+  82% {top: 157px}
+  83% {top: 158px}
+  84% {top: 159px}
+  85% {top: 160px}
+  86% {top: 161px}
+  87% {top: 162px}
+  88% {top: 163px}
+  89% {top: 164px}
+  90% {top: 165px}
+  91% {top: 166px}
+  92% {top: 167px}
+  93% {top: 168px}
+  94% {top: 169px}
+  95% {top: 170px}
+  96% {top: 171px}
+  97% {top: 172px}
+  98% {top: 173px}
+  99% {top: 174px}
+  100% {top: 175px}
+}

@@ -1,0 +1,58 @@
+header {
+    height: 35px;
+    border: 1px solid black;
+  }
+  .logo {
+    float: left;
+    height: 35px;
+  }
+  .upp {
+    font-size: 17px;
+    font-family: 'VT323', monospace;
+    float: left;
+  }
+  .up {
+    position: absolute;
+    top: 0px;
+    left: 50px;
+    list-style-type: none;
+  }
+  .middle {
+    background-color: #C4C4C4;
+    height: 1250px;
+}
+.contact {
+    font-family: 'VT323', monospace;
+    text-align: center;
+    font-size: 48px;
+}
+.email {
+    position: relative;
+    top: 50px;
+    font-family: 'VT323', monospace;
+    text-align: center;
+    font-size: 40px;
+}
+.phone {
+    position: relative;
+    top: 100px;
+    font-family: 'VT323', monospace;
+    text-align: center;
+    font-size: 40px;
+}
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'VT323', monospace;
+  font-size: 40px;
+  background-color: #C4C4C4;
+}
+.ccenter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'VT323', monospace;
+  font-size: 40px;
+  background-color: #C4C4C4;
+}

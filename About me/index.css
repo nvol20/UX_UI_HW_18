@@ -1,0 +1,156 @@
+header {
+    height: 35px;
+    border: 1px solid black;
+  }
+  .logo {
+    float: left;
+    height: 35px;
+  }
+  .upp {
+    font-size: 17px;
+    font-family: 'VT323', monospace;
+    float: left;
+  }
+  .up {
+    position: absolute;
+    top: 0px;
+    left: 50px;
+    list-style-type: none;
+  }
+  .middle {
+      background-color: #C4C4C4;
+      height: 1250px;
+  }
+  .name {
+      text-align: center;
+      font-size: 48px;
+      font-family: 'VT323', monospace;
+      position: relative;
+      top: 10px;
+  }
+  .designer {
+    text-align: center;
+    font-size: 36px;
+    font-family: 'VT323', monospace;
+    position: relative;
+    top: 10px;
+  }
+  .hello {
+    font-family: 'VT323', monospace;
+    font-size: 32px;
+    position: relative;
+    top: 20px;
+    left: 20px;
+  }
+  .about {
+    font-family: 'VT323', monospace;
+    font-size: 32px;
+    position: relative;
+    top: 40px;
+    left: 20px;
+  }
+  .mainOne {
+    width: 800px;
+    font-family: 'VT323', monospace;
+    font-size: 32px;
+    position: relative;
+    top: 60px;
+    left: 20px;
+  }
+  .mainTwo {
+    width: 800px;
+    font-family: 'VT323', monospace;
+    font-size: 32px;
+    position: relative;
+    top: 80px;
+    left: 20px;
+  }
+  .skills {
+      position: relative;
+      top: 130px;
+      text-align: center;
+      font-family: 'VT323', monospace;
+      font-size: 40px;
+  }
+  .dunya {
+    position: absolute;
+    top: 130px;
+    left: 1000px;
+    width: 300px;
+    height: 300px;
+    background: url(https://i.pinimg.com/564x/b4/b1/76/b4b1765cff578f988578e074c9f3691f.jpg);
+    border-radius: 100%;
+    background-size: 760px;
+    animation: spin 5s infinite linear;
+  }
+  @keyframes spin {
+    0% {background-position-x: 0}
+    100% {background-position-x: 760px}
+  }
+  .cardOne {
+      display: inline-block;
+      border-radius: 5px;
+      height: 250px;
+      width: 230px;
+      position: relative;
+      top: 120px;
+      left: 85px;
+      margin: 110px;
+  }
+  .cardTwo {
+    display: inline-block;
+    border-radius: 5px;
+    height: 250px;
+    width: 230px;
+    position: relative;
+    top: 120px;
+    left: 85px;
+    margin: 110px;
+}
+.cardThree {
+    display: inline-block;
+    border-radius: 5px;
+    height: 250px;
+    width: 230px;
+    position: relative;
+    top: 120px;
+    left: 85px;
+    margin: 110px;
+}
+  .ddown {
+      position: relative;
+      left: 120px;
+      float: left;
+      font-family: 'VT323', monospace;
+      font-size: 24px;
+      margin: 115px;
+  }
+  .down {
+    list-style-type: none;
+
+  }
+  .resume {
+    position: relative;
+    left: 570px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: 400px;
+    font-family: 'VT323', monospace;
+    font-size: 40px;
+    background-color: #C4C4C4;
+  }
+.aha {
+    width: 260px;
+    height: 350px;
+  }
+.hearts {
+    width: 230px;
+    height: 280px;
+}
+.computer {
+    width: 230px;
+    height: 280px;
+}
+ 

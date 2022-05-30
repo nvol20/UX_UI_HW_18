@@ -1,0 +1,92 @@
+header {
+    height: 35px;
+    border: 1px solid black;
+  }
+  .logo {
+    float: left;
+    height: 35px;
+  }
+  .upp {
+    font-size: 17px;
+    font-family: 'VT323', monospace;
+    float: left;
+  }
+  .up {
+    position: absolute;
+    top: 0px;
+    left: 50px;
+    list-style-type: none;
+  }
+  .projects {
+    font-family: 'VT323', monospace;
+    text-align: center;
+    font-size: 48px;
+  }
+  .middle {
+      background-color: #C4C4C4;
+      height: 1500px;
+  }
+  .cardOne {
+    border: 1px solid black;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    top: 80px;
+    left: 190px;
+    display: inline-block;
+  }
+  .cardTwo {
+    left: 300px;
+    display: inline-block;
+    border: 1px solid black;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    top: 80px;
+  }
+  .cardThree {
+    display: inline-block;
+    border: 1px solid black;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    top: 150px;
+    left: 190px;
+  }
+  .cardFour {
+    display: inline-block;
+    border: 1px solid black;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    top: 150px;
+    left: 300px;
+  }
+  .titleOne {
+    font-family: 'VT323', monospace;
+    position: relative;
+    top: 100px;
+    left: 340px;
+    font-size: 40px;
+  }
+  .titleTwo {
+    font-family: 'VT323', monospace;
+    position: relative;
+    top: 60px;
+    left: 970px;
+    font-size: 40px;
+  }
+  .titleThree {
+    font-family: 'VT323', monospace;
+    position: relative;
+    top: 170px;
+    left: 340px;
+    font-size: 40px;
+  }
+  .titleFour {
+    font-family: 'VT323', monospace;
+    position: relative;
+    top: 130px;
+    left: 970px;
+    font-size: 40px;
+  }
