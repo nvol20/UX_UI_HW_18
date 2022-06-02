@@ -20,6 +20,8 @@ header {
   .projects {
     font-family: 'VT323', monospace;
     text-align: center;
+    position: relative;
+    top: 20px;
     font-size: 48px;
   }
   .middle {

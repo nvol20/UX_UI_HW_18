@@ -26,27 +26,27 @@ header {
       font-size: 48px;
       font-family: 'VT323', monospace;
       position: relative;
-      top: 10px;
+      top: 20px;
   }
   .designer {
     text-align: center;
     font-size: 36px;
     font-family: 'VT323', monospace;
     position: relative;
-    top: 10px;
+    top: 20px;
   }
   .hello {
     font-family: 'VT323', monospace;
     font-size: 32px;
     position: relative;
-    top: 20px;
+    top: 30px;
     left: 20px;
   }
   .about {
     font-family: 'VT323', monospace;
     font-size: 32px;
     position: relative;
-    top: 40px;
+    top: 50px;
     left: 20px;
   }
   .mainOne {
